@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](./img/header_img.jpg)
+![Header](/header_img.png)
