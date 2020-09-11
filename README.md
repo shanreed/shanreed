@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](header_img.jpg)
+![Header](/header_img.png)
+
+
+<img src="https://raw.githubusercontent.com/shanreed/shanreed/master/header_img.png" alt="Full Stack Web Developer Banner">
