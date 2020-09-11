@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Header](/header_img.png)
 
 
-<img src="https://raw.githubusercontent.com/shanreed/shanreed/master/header_img.png" alt="Full Stack Web Developer Banner">
+<img src="https://github.com/shanreed/shanreed/tree/master/header_img.png" alt="Full Stack Web Developer Banner">
