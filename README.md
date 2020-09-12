@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 I'm Shannon Reed a Full Stack Web Developer who specializes in bringing designs to life with User Interfaces, Front and Back End Development. I am a advid
 
 Want to connect? Feel free to ring my :bell:
- <a href="shannonreed.dev"><img alt="Email" src="https://img.shields.io/badge/Email-shannontlreed@gmail.com-blue?style=flat-square&logo=gmail"></a>
+ <a href="https://github.com/shanreed"><img alt="Email" src="https://img.shields.io/badge/Email-shannontlreed@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
