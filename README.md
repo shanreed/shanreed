@@ -18,19 +18,21 @@ Here are some ideas to get you started:
 <img src="https://github.com/shanreed/shanreed/blob/master/headerImg2.png" alt="Full Stack Web Developer Banner"/>
 
 
-## Hi,Shannon a Full Stack Web Developer 
-- Specialize in bringing designs to life with User Interfaces, FrontEnd and BackEnd Development. 
+## Hi, I'm Shannon a Full Stack Web Developer 
+- Specialize in bringing designs to life with User Interfaces, Front-End and Back-End Development. 
 - Currently creating websites and application using the coding skills I have learn over the past five years. 
 - Working at Lambda School for the past year and I am currently look for new development job opportunities.
 
-####:mortar_board: Education
+#### :mortar_board: Education
 - Bachelor's Degree In Information Technology
 - Full Stack Web Development at Lambda School
 
 :pushpin: I am currently working on
+
 :pushpin: I am current learning
 
 :libra::earth_africa:
 Want to connect? Feel free to ring my :bell:
+
  <a href="https://github.com/shanreed"><img alt="Email" src="https://img.shields.io/badge/Email-shannontlreed@gmail.com-blueviolet?style=flat-square&logo=gmail"></a>
 </p>
