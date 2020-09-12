@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/shanreed/shanreed/blob/master/headerImg.png" alt="Full Stack Web Developer Banner"/>
+<img src="https://github.com/shanreed/shanreed/blob/master/headerImg2.png" alt="Full Stack Web Developer Banner"/>
 
 
-I'm Shannon Reed a Full Stack Web Developer who specializes in bringing designs to life with User Interfaces, Front and Back End Development. 
+I'm Shannon Reed a Full Stack Web Developer who specializes in bringing designs to life with User Interfaces, Front and Back End Development. I am a advid
 
  Wanna connect? Feel free to ring my :bell:
  :e-mail: shannontlreed@gmail.com
