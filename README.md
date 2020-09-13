@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ## Hi, I'm Shannon a Full Stack Web Developer 
-- Specialize in bringing designs to life with User Interfaces, Front-End and Back-End Development. 
+- Passion for bringing designs to life with User Interfaces, Front-End and Back-End Development. 
 - Currently creating websites and application using the coding skills I have learn over the past five years. 
 - Working at Lambda School for the past year and I am currently look for new development job opportunities.
 
