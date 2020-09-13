@@ -22,16 +22,20 @@ Here are some ideas to get you started:
 - Specialize in bringing designs to life with User Interfaces, Front-End and Back-End Development. 
 - Currently creating websites and application using the coding skills I have learn over the past five years. 
 - Working at Lambda School for the past year and I am currently look for new development job opportunities.
+:libra::earth_africa:
 
-#### :mortar_board: Education
-- Bachelor's Degree In Information Technology
-- Full Stack Web Development at Lambda School
 
 :pushpin: I am currently working on
 
 :pushpin: I am current learning
 
-:libra::earth_africa:
+
+#### :mortar_board: Education
+- Bachelor's Degree In Information Technology
+- Full Stack Web Development at Lambda School
+
+
+
 Want to connect? Feel free to ring my :bell:
 
  <a href="https://github.com/shanreed"><img alt="Email" src="https://img.shields.io/badge/Email-shannontlreed@gmail.com-blueviolet?style=flat-square&logo=gmail"></a>
