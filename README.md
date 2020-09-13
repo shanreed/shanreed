@@ -31,7 +31,10 @@ Here are some ideas to get you started:
 - [React match memory game](https://react-memory-game-wheat.vercel.app/)
 - Small CRM using React and firebase 
 
-#### :pushpin: I am current learning
+#### :pushpin: I am currently learning
+- Nextjs
+- AWS
+- Python
 
 
 #### :mortar_board: Education
