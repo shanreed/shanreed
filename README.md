@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 
 
 #### :pushpin: I am currently working on
+- [My personal porfolio](https://shannonreed.dev/)
+- [React match memory game](https://react-memory-game-wheat.vercel.app/)
+- Small CRM using React and firebase 
 
 #### :pushpin: I am current learning
 
