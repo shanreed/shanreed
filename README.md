@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 :libra::earth_africa:
 
 
-:pushpin: I am currently working on
+#### :pushpin: I am currently working on
 
-:pushpin: I am current learning
+#### :pushpin: I am current learning
 
 
 #### :mortar_board: Education
-- Bachelor's Degree In Information Technology
+- Bachelor of Science in Information Technology
 - Full Stack Web Development at Lambda School
 
 
