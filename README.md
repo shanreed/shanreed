@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 #### :pushpin: I am currently working on
 - [My personal porfolio](https://shannonreed.dev/)
 - [React match memory game](https://react-memory-game-wheat.vercel.app/)
-- Small CRM using React and firebase 
+- [Small CMS using React and Firebase](https://github.com/SR-Portfolio-Projects/Basic-React-CRM)
 
 #### :pushpin: I am currently learning
 - Nextjs
